@@ -1,0 +1,27 @@
+.abc{
+			margin:5px;
+			height:80px;
+			width:980px;
+			background-color:orange;
+			
+		}
+		.main{
+			margin:5px;
+			height:500px;
+			width:695px;
+			background-color:orange;
+			display:inline-block;
+		}
+		.contain{
+			margin:5px;
+			height: 500px;
+			width:275px;
+			background-color:orange;
+			display:inline-block;
+		}
+		.footer{
+			margin:10px;
+			height:80px;
+			width:980px;
+			background-color:orange;
+		}
